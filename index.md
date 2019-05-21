@@ -5,4 +5,4 @@ layout: page
 
 placeholder text
 
-![David Golding](/assets/DavidGolding.jpg))
+![David Golding](/assets/DavidGolding.jpg)
