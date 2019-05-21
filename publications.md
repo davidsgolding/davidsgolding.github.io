@@ -6,5 +6,16 @@ permalink: /Publications/
 
 ### Publications
 
-[Golding, D. “Rocko’s Magic Capitalism: Commodity Fetishism in the Magical Realism of Rocko’s Modern Life.” _animation: an interdisciplinary journal 14_ (1): 52-67](https://journals.sagepub.com/doi/full/10.1177/1746847719831365)
+2019
 
+[Golding, D. “Rocko’s Magic Capitalism: Commodity Fetishism in the Magical Realism of Rocko’s Modern Life.” _animation: an interdisciplinary journal_ 14 (1): 52-67](https://journals.sagepub.com/doi/full/10.1177/1746847719831365)
+
+[Golding, D., & Kopsick, K. “The Colonial Legacy in Cambridge Assessment Literature Syllabi.” _Curriculum Perspectives_ 39 (1): 7-17](https://link.springer.com/content/pdf/10.1007%2Fs41297-018-00062-0.pdf)
+
+2018
+
+[Golding, D. “The Colonial and Neoliberal Roots of the Public-private Education Debate in Sri Lanka.” _Journal for Critical Education Policy Studies_ 16 (1): 145-174](http://www.jceps.com/wp-content/uploads/2018/04/16-1-5.pdf)
+
+2017
+
+[Golding, D. “Border Cosmopolitanism in Critical Peace Education.” _Journal of Peace Education_ 14 (2): 155-175](https://www.tandfonline.com/doi/abs/10.1080/17400201.2017.1323727)
