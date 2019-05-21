@@ -1,5 +1,5 @@
 ---
-layout: default.html
+layout: page
 title: "David Golding"
 ---
 
