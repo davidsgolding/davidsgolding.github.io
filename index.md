@@ -1,5 +1,6 @@
 ---
 title: "David Golding"
+layout: page
 ---
 
 I’m a PhD candidate in Education and Social Justice at Lancaster University. My research looks at decolonial theory, development, international education, governmentality, neoliberalism, and cultural theory.
