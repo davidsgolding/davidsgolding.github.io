@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "David Golding"
+title: "CV"
 permalink: /CV/
 ---
