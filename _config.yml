@@ -10,5 +10,6 @@ post_footer: false
 
 navigation: 
 - index.md
+- publications.md
 - CV.md
 - contact.md
