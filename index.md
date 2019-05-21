@@ -4,5 +4,4 @@ layout: page
 ---
 
 placeholder text
-
 ![DavidGolding.jpg](/assets/DavidGolding.JPG =200x))
