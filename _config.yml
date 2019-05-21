@@ -9,4 +9,5 @@ hide_title: false
 post_footer: false
 
 navigation: 
+- About.md
 - CV.md
