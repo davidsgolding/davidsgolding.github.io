@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "David Golding"
 ---
 
