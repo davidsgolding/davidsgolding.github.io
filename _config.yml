@@ -7,3 +7,6 @@ lang: "en"
 
 hide_title: false
 post_footer: false
+
+post: false
+posts: false
