@@ -1,5 +1,5 @@
 ---
-title: "David Golding"
+title: "About"
 layout: page
 ---
 
