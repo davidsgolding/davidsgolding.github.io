@@ -8,6 +8,8 @@ permalink: /Publications/
 
 2019
 
+[Golding, D. “The Darker Side of Fritz Lang's _Metropolis_: Coloniality in Modernist Cinema.” _Postcolonial Studies_. Online first.](https://www.tandfonline.com/doi/abs/10.1080/13688790.2019.1627855?journalCode=cpcs20)
+
 [Golding, D. “Rocko’s Magic Capitalism: Commodity Fetishism in the Magical Realism of Rocko’s Modern Life.” _animation: an interdisciplinary journal_ 14 (1): 52-67](https://journals.sagepub.com/doi/full/10.1177/1746847719831365)
 
 [Golding, D., & Kopsick, K. “The Colonial Legacy in Cambridge Assessment Literature Syllabi.” _Curriculum Perspectives_ 39 (1): 7-17](https://link.springer.com/content/pdf/10.1007%2Fs41297-018-00062-0.pdf)
