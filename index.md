@@ -3,9 +3,9 @@ title: "About"
 layout: page
 ---
 
-I’m a PhD candidate in Education and Social Justice at Lancaster University. My research looks at decolonial theory, development, international education, governmentality, and neoliberalism.
+I'm a researcher in Chicago. My research looks at decolonial theory, development, international education, governmentality, and neoliberalism.
 
-My articles have appeared in *Postcolonial Studies*, *Journal of Peace Education*, *animation: an interdisciplinary journal*, and elsewhere. I also review manuscripts for Routledge, *Journal for Critical Education Policy Studies*, and the *Journal of International and Comparative Education*.
+My articles have appeared or are forthcoming in *Compare:A Journal of Comparative and International Education*, *Postcolonial Studies*, *Journal of Peace Education*, and elsewhere. I also review manuscripts for *Critical Studies in Education*, *Journal for Critical Education Policy Studies*, and the *Journal of International and Comparative Education*.
 
 I recently completed five years of teaching development, sociology, and peace studies at public and private universities in Sri Lanka. Previously, I worked as a human rights observer in Mexico and Guatemala.
 
