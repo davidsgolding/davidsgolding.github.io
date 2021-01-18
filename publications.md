@@ -6,6 +6,10 @@ permalink: /Publications/
 
 ### Publications
 
+2021
+
+[Golding, D. “'We are helpless, we are not the authority': Colonial governmentality in a Sri Lankan transnational education institution.” *Compare: A Journal of Comparative and International Education*. Online first.](https://www.tandfonline.com/doi/full/10.1080/03057925.2020.1867827?src=)
+
 2019
 
 [Golding, D. “The Darker Side of Fritz Lang's _Metropolis_: Coloniality in Modernist Cinema.” *Postcolonial Studies* 22 (3): 303-324](https://www.tandfonline.com/doi/abs/10.1080/13688790.2019.1627855?journalCode=cpcs20)
