@@ -5,4 +5,4 @@ permalink: /Contact/
 ---
 
 
-[d.golding@lancaster.ac.uk](mailto:d.golding@lancaster.ac.uk)
+[davidsamuelgolding@gmail.com](mailto:davidsamuelgolding@gmail.com)
