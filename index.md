@@ -3,7 +3,7 @@ title: "About"
 layout: page
 ---
 
-I'm a researcher in Chicago. My research looks at decolonial theory, development, international education, governmentality, and neoliberalism.
+I'm a researcher in Chicago. My research looks at coloniality, development, international education, governmentality, and neoliberalism.
 
 My articles have appeared in *Compare: A Journal of Comparative and International Education*, *Postcolonial Studies*, *Journal of Peace Education*, and elsewhere. I also review manuscripts for journals such as *Critical Studies in Education*, *Television and New Media*, and *Journal for Critical Education Policy Studies*.
 
