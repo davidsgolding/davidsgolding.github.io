@@ -5,4 +5,4 @@ permalink: /Contact/
 ---
 
 
-[davidsamuelgolding@gmail.com](mailto:davidsamuelgolding@gmail.com)
+[dgolding@mun.ca](mailto:dgolding@mun.ca)
