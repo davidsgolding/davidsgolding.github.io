@@ -8,7 +8,7 @@ permalink: /Publications/
 
 2022
 
-Golding, D., & Kopsick, K. “The colonial governmentality of Cambridge Assessment International Examinations.” *European Educational Research Journal*. Forthcoming.
+Golding, D., & Kopsick, K. “The colonial governmentality of Cambridge Assessment International Education.” *European Educational Research Journal*. Forthcoming.
 
 [Golding, D. “'We are helpless, we are not the authority': Colonial governmentality in a Sri Lankan transnational education institution.” *Compare: A Journal of Comparative and International Education* 52(8): 1351-1368](https://www.tandfonline.com/doi/full/10.1080/03057925.2020.1867827?src=)
 
