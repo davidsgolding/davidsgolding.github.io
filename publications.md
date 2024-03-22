@@ -8,7 +8,7 @@ permalink: /Publications/
 
 2024
 
-Golding, D. "The racialization of killer whales: An application of gene-culture coevolutioanry theory." _Perspectives on Science_ (Forthcoming)
+Golding, D. "The racialization of killer whales: An application of gene-culture coevolutionary theory." _Perspectives on Science_ (Forthcoming)
 
 2024
 
