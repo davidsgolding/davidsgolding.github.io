@@ -6,9 +6,15 @@ permalink: /Publications/
 
 ### Publications
 
-2022
+2024
 
-[Golding, D., & Kopsick, K. “The colonial governmentality of Cambridge Assessment International Education.” *European Educational Research Journal*. Online first.](https://journals.sagepub.com/doi/10.1177/14749041221125027)
+Golding, D. "The racialization of killer whales: An application of gene-culture coevolutioanry theory." _Perspectives on Science_ (Forthcoming).
+
+2024
+
+[Golding, D., & Kopsick, K. “The colonial governmentality of Cambridge Assessment International Education.” *European Educational Research Journal* 23 (2): 261-286](https://journals.sagepub.com/doi/10.1177/14749041221125027)
+
+2022
 
 [Golding, D. “'We are helpless, we are not the authority': Colonial governmentality in a Sri Lankan transnational education institution.” *Compare: A Journal of Comparative and International Education* 52(8): 1351-1368](https://www.tandfonline.com/doi/full/10.1080/03057925.2020.1867827?src=)
 
