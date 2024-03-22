@@ -10,8 +10,6 @@ permalink: /Publications/
 
 Golding, D. "The racialization of killer whales: An application of gene-culture coevolutionary theory." _Perspectives on Science_ (Forthcoming)
 
-2024
-
 [Golding, D., & Kopsick, K. “The colonial governmentality of Cambridge Assessment International Education.” *European Educational Research Journal* 23 (2): 261-286](https://journals.sagepub.com/doi/10.1177/14749041221125027)
 
 2022
